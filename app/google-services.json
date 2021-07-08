@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "10279475474",
+    "project_id": "tateti-tp",
+    "storage_bucket": "tateti-tp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10279475474:android:039438eea118eab8bb7bcb",
+        "android_client_info": {
+          "package_name": "ar.com.develup.tateti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10279475474-njf57cmibmmjd7tgpkgf2cdskt5577h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.com.develup.tateti",
+            "certificate_hash": "794958fe55d9acd615e87f3c7cd1cf665d7ec9dc"
+          }
+        },
+        {
+          "client_id": "10279475474-rv5de7dulle3qr3irsc6bo2jr2fa6uec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu8dt_tFu3bkPXDRZmGI2CnrAINXQo-Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10279475474-rv5de7dulle3qr3irsc6bo2jr2fa6uec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
